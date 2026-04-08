@@ -70,3 +70,17 @@ php artisan migrate
 
 5. Start development server
 php artisan serve
+```
+---
+
+## 🎯 Purpose
+
+- This project is part of my learning journey in backend development using Laravel.
+- It helps me understand CRUD operations, MVC structure, and real-world project flow.
+
+---
+
+## 👨‍💻 Developer
+
+Bilawal Shah
+- Aspiring Software Engineer | Web Developer 🚀
