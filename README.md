@@ -69,4 +69,4 @@ composer install
 php artisan migrate
 
 5. Start development server
-php artisan serve9
+php artisan serve
