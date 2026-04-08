@@ -51,7 +51,7 @@ This project demonstrates CRUD operations, clean UI design, and backend logic us
 ## 📸 Preview
 <img width="416" height="600" alt="image" src="https://github.com/user-attachments/assets/ba6e3dfa-d6c7-4e24-ac80-98c620f3ff61" />
 <img width="840" height="597" alt="image" src="https://github.com/user-attachments/assets/0003ae36-ec32-4614-86af-1b8616a80c3a" />
-<img width="840" height="597" alt="image" src="https://github.com/user-attachments/assets/153984b3-75d4-405b-bb4a-ceb173111584" />
+<img width="777" height="298" alt="image" src="https://github.com/user-attachments/assets/28fee713-0e13-4a23-a5fb-3eea95993f5a" />
 
 
 ---
