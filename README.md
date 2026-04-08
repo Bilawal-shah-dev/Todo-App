@@ -41,10 +41,8 @@ This project demonstrates CRUD operations, clean UI design, and backend logic us
 
 ## 🛠 Tech Stack
 - Laravel (PHP Framework)
-- MySQL
-- HTML
-- CSS
-- Bootstrap
+- SQLite
+- Blade
 
 ---
 
